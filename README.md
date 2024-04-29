@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+welcome+to+my+profile"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauline-bertrand-166b3624a) 
